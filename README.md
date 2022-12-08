@@ -7,7 +7,8 @@ This project is an beginner friendly project that ultiizes Stock API from Polygo
 
 I requested the API data from Polygon Stock API and extracted the 'Closing Prices' and 'Dates' for each stock from March 2021 to March 2022. Using DictWriter, I saved this data by creating 5 CSV files that contained the Dates and Closing Prices for each respective stock. This can be viewed in extract.py and stock folder. In analysis.py, the standard deviations of each week were calculated using the import statistics. Finally I used matplotlib to plot 5 graphs that presented the change of Standard Deviations from March 2021 to March 2022. 
 
-Example: ![AAPL Stock Performance](https://github.com/tpham16/stock-performance-analysis/blob/main/resources/AAPL_stdev.png)
+Example: 
+![AAPL Stock Performance](https://github.com/tpham16/stock-performance-analysis/blob/main/resources/AAPL_stdev.png)
 
 ## Lesson Learned: 
 I learned that APIs are a great tool to communicate with a service and access functions and data with a simple command. This is one of my first encounters with using API, but it definitely won't be my last. 
