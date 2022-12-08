@@ -14,8 +14,8 @@ Example:
 ## Lesson Learned: 
 I learned that APIs are a great tool to communicate with a service and access functions and data with a simple command. This is one of my first encounters with using API, but it definitely won't be my last. 
 
-There was a learning curve on how to access the data from an API. However, with the help of my instructors and YouTube videos, I learned how to get an API key, test API endpoints and created an application using Python. Without APIs, the functionality of my applications would be limited. APIs allow me to save tiome when developing. I did not have to manually find the historial data of Apple, Costco, etc. Instead, I can use a more efficient and convenient method such as an OPEN API that simply provides me the data. 
+There was a learning curve on how to access the data from an API. However, with the help of my instructors and YouTube videos, I learned how to get an API key, test API endpoints and created an application using Python. Without APIs, the functionality of my applications would be limited. APIs allow me to save time and resources when developing applications. I did not have to manually search the historial data of Apple, Costco, etc. Instead, I can use a more efficient and convenient method such as an Open API that can pull data. 
 
-As I continue to analyze data, I hope to practice with various OPEN APIs such as Yahoo Finance API and Spotify API to create more practical applications such as this one.
+As I continue to analyze data, I hope to practice with various Open APIs such as Yahoo Finance API and Spotify API to create more practical applications such as this one.
 
 
